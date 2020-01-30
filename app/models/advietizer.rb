@@ -1,0 +1,2 @@
+class Advietizer < User
+end
